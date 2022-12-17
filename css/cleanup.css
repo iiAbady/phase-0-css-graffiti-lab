@@ -1,1 +1,23 @@
 /* write your override styles here */
+#wall .tag-1 {
+  display: none;
+}
+
+#wall #tag-2 {
+	border: 2px solid red;
+}
+
+#wall #tag-3 {
+	border: 10px solid green;
+	padding: 20px;
+	margin: 30px;
+}
+
+#tag-4 {
+	display: none;
+}
+
+#tag-5 {
+	padding: 20px 20px 30px 50px;
+	border: 50px solid green;
+}
